@@ -1,0 +1,10 @@
+D:\FSOFT\C#\LamThem\LamThem\bin\Debug\LamThem.exe.config
+D:\FSOFT\C#\LamThem\LamThem\bin\Debug\LamThem.exe
+D:\FSOFT\C#\LamThem\LamThem\bin\Debug\LamThem.pdb
+D:\FSOFT\C#\LamThem\LamThem\obj\Debug\LamThem.csproj.AssemblyReference.cache
+D:\FSOFT\C#\LamThem\LamThem\obj\Debug\LamThem.csproj.CoreCompileInputs.cache
+D:\FSOFT\C#\LamThem\LamThem\obj\Debug\LamThem.exe
+D:\FSOFT\C#\LamThem\LamThem\obj\Debug\LamThem.pdb
+D:\FSOFT\C#\LamThem\LamThem\bin\Debug\ConsoleTables.dll
+D:\FSOFT\C#\LamThem\LamThem\bin\Debug\ConsoleTables.pdb
+D:\FSOFT\C#\LamThem\LamThem\obj\Debug\LamThem.csproj.CopyComplete
